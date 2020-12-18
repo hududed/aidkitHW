@@ -1,4 +1,4 @@
-# challenge-hw01
+# aidkitHW
 
 This repo is for a coding challenge to interface various frameworks eg pytorch (fastai), tensorflow, onnx and inferencing onnx-runtime. The work is best followed on Linux OS with jupyter notebooks.
 

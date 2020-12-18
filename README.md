@@ -18,4 +18,4 @@ pip install -e .
 
 ## The package can be installed via pip:
 
-`pip install bla`
+`pip install aidkitHW`
